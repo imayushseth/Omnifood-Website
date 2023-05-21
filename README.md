@@ -1,3 +1,4 @@
 # Omnifood-Website
 Omnifood is a fictional dummy project website. 
-<a href="https://omnifood.dev">LIVE SITE</a>
+Build with HTML CSS & JAVACRIPT.
+<a href="https://imayushseth.github.io/Omnifood-Website/">LIVE SITE</a>
