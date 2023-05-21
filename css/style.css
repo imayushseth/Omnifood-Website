@@ -630,6 +630,11 @@
   margin-top: auto;
 }
 
+.copyright a{
+  text-decoration: none;
+  color: inherit;
+}
+
 .footer-heading {
   font-size: 1.8rem;
   font-weight: 500;
